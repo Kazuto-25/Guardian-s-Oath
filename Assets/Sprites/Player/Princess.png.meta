@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 9510931bc7b761040bf0b0e3ba11218f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8287445388479769086
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_0
+  - first:
+      213: 6609741742618974170
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_1
+  - first:
+      213: 7609441400746208146
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_2
+  - first:
+      213: 6045249381472013348
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_3
+  - first:
+      213: 4862515614021704768
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_4
+  - first:
+      213: 4652206592910402175
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_5
+  - first:
+      213: -7547826090248886025
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_6
+  - first:
+      213: -5916930927458182697
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_7
+  - first:
+      213: -2457176635600359044
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_8
+  - first:
+      213: 4938446735477901110
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_9
+  - first:
+      213: -726645939844266515
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_10
+  - first:
+      213: -6439867847783754109
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_11
+  - first:
+      213: 7780640404769451820
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_12
+  - first:
+      213: -6667998322565787153
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_13
+  - first:
+      213: -7033592935423300161
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_14
+  - first:
+      213: -2190140537681565123
+    second: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 129
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cdd8030302b7340800000000000000
+      internalID: 4862515614021704768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 128
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72a7207f35ff8040800000000000000
+      internalID: 4652206592910402175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f82a48392cb04790800000000000000
+      internalID: -7547826090248886025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 128
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d91554bba6d2eda0800000000000000
+      internalID: -5916930927458182697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 69
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71b6ac5eda56edd0800000000000000
+      internalID: -2457176635600359044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 68
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63709521423e88440800000000000000
+      internalID: 4938446735477901110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 69
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de54a1e1e5f6ae5f0800000000000000
+      internalID: -726645939844266515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 68
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386d364ff4ef0a6a0800000000000000
+      internalID: -6439867847783754109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 192
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bf9aca32b2a4d4fbf6ea60dbcc1db8
+      internalID: -8287445388479769086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 190
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099856a291c2f9c40a63f72cc9b9983e
+      internalID: 6609741742618974170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 192
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480f0588682682a4aad702d9bf8ab12d
+      internalID: 7609441400746208146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 190
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb13df4bc1c1c842924c88a3a3905d8
+      internalID: 6045249381472013348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8a0c010ae85ee418fb553ee9ca2f2a
+      internalID: 7780640404769451820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 8
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb30289712048946a21ca94564d974e
+      internalID: -6667998322565787153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 7
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cf7acb295da4c42b2bb6ed8402a135
+      internalID: -7033592935423300161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 9
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acdd2ee09d1939449e7d0f1b160fcc4
+      internalID: -2190140537681565123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5d4404cc19925d4983bf4aa0dd76c16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_0: -8287445388479769086
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_1: 6609741742618974170
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_10: -726645939844266515
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_11: -6439867847783754109
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_12: 7780640404769451820
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_13: -6667998322565787153
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_14: -7033592935423300161
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_15: -2190140537681565123
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_2: 7609441400746208146
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_3: 6045249381472013348
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_4: 4862515614021704768
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_5: 4652206592910402175
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_6: -7547826090248886025
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_7: -5916930927458182697
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_8: -2457176635600359044
+      flower_princess_sprite_sheet_by_natt_tenshi_dbjnx9y_9: 4938446735477901110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
