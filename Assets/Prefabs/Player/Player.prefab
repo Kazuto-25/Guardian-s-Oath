@@ -781,16 +781,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 3
   gameWin: 0
-  isAlive: 0
+  isAlive: 1
   x_Limit: 20
   y_Limit: 14
+  maxHealth: 0
   knight: {fileID: 3684233370987559618}
   knight_Animator: {fileID: 3774469300211370775}
   knight_rb: {fileID: 3531697611537385088}
   heavyAttackForce: 100
   canMove: 0
+  knight_Health: 0
   princess: {fileID: 1254018419372765293}
   princess_Animator: {fileID: 505606064179176065}
+  princess_Health: 0
 --- !u!114 &7031914185848302335
 MonoBehaviour:
   m_ObjectHideFlags: 0

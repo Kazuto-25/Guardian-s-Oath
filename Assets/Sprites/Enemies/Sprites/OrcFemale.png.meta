@@ -1,0 +1,5544 @@
+fileFormatVersion: 2
+guid: 029bf4e1692509340bd7a3818ceb10a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4059817949528164994
+    second: OrcFemale_0
+  - first:
+      213: -2871871026344146680
+    second: OrcFemale_1
+  - first:
+      213: 7985859293234019064
+    second: OrcFemale_2
+  - first:
+      213: 2835391655680338886
+    second: OrcFemale_3
+  - first:
+      213: 3590541422274955794
+    second: OrcFemale_4
+  - first:
+      213: 4625787355247276869
+    second: OrcFemale_5
+  - first:
+      213: 3603202563311252825
+    second: OrcFemale_6
+  - first:
+      213: 8043822083352398041
+    second: OrcFemale_7
+  - first:
+      213: 1955514158163983156
+    second: OrcFemale_8
+  - first:
+      213: 4117678963278953494
+    second: OrcFemale_9
+  - first:
+      213: 3210121390933602164
+    second: OrcFemale_10
+  - first:
+      213: 7684268255626120063
+    second: OrcFemale_11
+  - first:
+      213: -9163398955361066304
+    second: OrcFemale_12
+  - first:
+      213: 3268097282052877407
+    second: OrcFemale_13
+  - first:
+      213: -6818904108902212013
+    second: OrcFemale_14
+  - first:
+      213: 2911171379594377853
+    second: OrcFemale_15
+  - first:
+      213: 3838148826463516076
+    second: OrcFemale_16
+  - first:
+      213: -2496122677412319505
+    second: OrcFemale_17
+  - first:
+      213: 1379267756920229965
+    second: OrcFemale_18
+  - first:
+      213: -7504871248957710022
+    second: OrcFemale_19
+  - first:
+      213: -4352521636051892901
+    second: OrcFemale_20
+  - first:
+      213: -1695067076567355541
+    second: OrcFemale_21
+  - first:
+      213: -2335158856335329177
+    second: OrcFemale_22
+  - first:
+      213: -4486831604995055567
+    second: OrcFemale_23
+  - first:
+      213: 5360152254324303041
+    second: OrcFemale_24
+  - first:
+      213: -2848664286503335072
+    second: OrcFemale_25
+  - first:
+      213: 6369053865833535059
+    second: OrcFemale_26
+  - first:
+      213: 6699240972100682775
+    second: OrcFemale_27
+  - first:
+      213: -6228355240006296181
+    second: OrcFemale_28
+  - first:
+      213: -1430376817833184841
+    second: OrcFemale_29
+  - first:
+      213: 85462800831587822
+    second: OrcFemale_30
+  - first:
+      213: -690925114541033184
+    second: OrcFemale_31
+  - first:
+      213: -515297829168186063
+    second: OrcFemale_32
+  - first:
+      213: 3877042764698680509
+    second: OrcFemale_33
+  - first:
+      213: 2881437603316539488
+    second: OrcFemale_34
+  - first:
+      213: -2691958706364879509
+    second: OrcFemale_35
+  - first:
+      213: 6308701410466279847
+    second: OrcFemale_36
+  - first:
+      213: 1877458101765253432
+    second: OrcFemale_37
+  - first:
+      213: -6825410708698076746
+    second: OrcFemale_38
+  - first:
+      213: -8999071706760708020
+    second: OrcFemale_39
+  - first:
+      213: 7040389149142129682
+    second: OrcFemale_40
+  - first:
+      213: 5915045478589282857
+    second: OrcFemale_41
+  - first:
+      213: 5196759884261212601
+    second: OrcFemale_42
+  - first:
+      213: 8519287774821184768
+    second: OrcFemale_43
+  - first:
+      213: -8917493116357018378
+    second: OrcFemale_44
+  - first:
+      213: 9052389922924577075
+    second: OrcFemale_45
+  - first:
+      213: 5285322481234492257
+    second: OrcFemale_46
+  - first:
+      213: 647793163511782715
+    second: OrcFemale_47
+  - first:
+      213: 42262101226392375
+    second: OrcFemale_48
+  - first:
+      213: 8571254491780477039
+    second: OrcFemale_49
+  - first:
+      213: 5786481039890670392
+    second: OrcFemale_50
+  - first:
+      213: -6961624113185173762
+    second: OrcFemale_51
+  - first:
+      213: -1168983684393280276
+    second: OrcFemale_52
+  - first:
+      213: -2383594693055450478
+    second: OrcFemale_53
+  - first:
+      213: -1534238145142027088
+    second: OrcFemale_54
+  - first:
+      213: 7877557801859303948
+    second: OrcFemale_55
+  - first:
+      213: -888189900168000340
+    second: OrcFemale_56
+  - first:
+      213: 8382171674523155907
+    second: OrcFemale_57
+  - first:
+      213: -2874153858300518867
+    second: OrcFemale_58
+  - first:
+      213: -307731139655685513
+    second: OrcFemale_59
+  - first:
+      213: -2003144479757758197
+    second: OrcFemale_60
+  - first:
+      213: 4620479217759395949
+    second: OrcFemale_61
+  - first:
+      213: 2927503326312027778
+    second: OrcFemale_62
+  - first:
+      213: -4732063422315441677
+    second: OrcFemale_63
+  - first:
+      213: -7827856728848406210
+    second: OrcFemale_64
+  - first:
+      213: 2252412761566504454
+    second: OrcFemale_65
+  - first:
+      213: -1036822149288923495
+    second: OrcFemale_66
+  - first:
+      213: 5899572784960625879
+    second: OrcFemale_67
+  - first:
+      213: -3545630772989456469
+    second: OrcFemale_68
+  - first:
+      213: 5667657156661741221
+    second: OrcFemale_69
+  - first:
+      213: 5256187211822966603
+    second: OrcFemale_70
+  - first:
+      213: 3205646957098073298
+    second: OrcFemale_71
+  - first:
+      213: 4062973198913414471
+    second: OrcFemale_72
+  - first:
+      213: -332171705797204366
+    second: OrcFemale_73
+  - first:
+      213: -644512788990725986
+    second: OrcFemale_74
+  - first:
+      213: 6697628781230680629
+    second: OrcFemale_75
+  - first:
+      213: 5770868457246928661
+    second: OrcFemale_76
+  - first:
+      213: 3508600446738669246
+    second: OrcFemale_77
+  - first:
+      213: 2339883703554880410
+    second: OrcFemale_78
+  - first:
+      213: -4236559860046867795
+    second: OrcFemale_79
+  - first:
+      213: 4182274370590867057
+    second: OrcFemale_80
+  - first:
+      213: -5661004780821969200
+    second: OrcFemale_81
+  - first:
+      213: 4915006105368872510
+    second: OrcFemale_82
+  - first:
+      213: -5067451607765166369
+    second: OrcFemale_83
+  - first:
+      213: 682680536179103749
+    second: OrcFemale_84
+  - first:
+      213: -6784605007624276807
+    second: OrcFemale_85
+  - first:
+      213: 8911076035181041739
+    second: OrcFemale_86
+  - first:
+      213: -1619484194018433925
+    second: OrcFemale_87
+  - first:
+      213: -5586486338436968745
+    second: OrcFemale_88
+  - first:
+      213: -7802520436065194240
+    second: OrcFemale_89
+  - first:
+      213: 5336023309991929690
+    second: OrcFemale_90
+  - first:
+      213: 8969793851358323178
+    second: OrcFemale_91
+  - first:
+      213: 2694157674396612306
+    second: OrcFemale_92
+  - first:
+      213: 5999984143251629533
+    second: OrcFemale_93
+  - first:
+      213: 5828656664359965681
+    second: OrcFemale_94
+  - first:
+      213: 7310831874301053423
+    second: OrcFemale_95
+  - first:
+      213: 1611651145879021713
+    second: OrcFemale_96
+  - first:
+      213: 8854527503038262023
+    second: OrcFemale_97
+  - first:
+      213: -7490695809215225910
+    second: OrcFemale_98
+  - first:
+      213: 4841366069015488818
+    second: OrcFemale_99
+  - first:
+      213: 2534275183795357911
+    second: OrcFemale_100
+  - first:
+      213: -1808788006547091139
+    second: OrcFemale_101
+  - first:
+      213: -473240863240933898
+    second: OrcFemale_102
+  - first:
+      213: 6557098652963081266
+    second: OrcFemale_103
+  - first:
+      213: -952720101122470437
+    second: OrcFemale_104
+  - first:
+      213: 5520317996355231954
+    second: OrcFemale_105
+  - first:
+      213: 8420749053301685087
+    second: OrcFemale_106
+  - first:
+      213: -176887063801524301
+    second: OrcFemale_107
+  - first:
+      213: 411302170272648641
+    second: OrcFemale_108
+  - first:
+      213: 9072591075604301164
+    second: OrcFemale_109
+  - first:
+      213: -7092354892857787220
+    second: OrcFemale_110
+  - first:
+      213: 81916088655207047
+    second: OrcFemale_111
+  - first:
+      213: 2419293530537800683
+    second: OrcFemale_112
+  - first:
+      213: 5508614311661931438
+    second: OrcFemale_113
+  - first:
+      213: -6718984873550049775
+    second: OrcFemale_114
+  - first:
+      213: 4923450412467278522
+    second: OrcFemale_115
+  - first:
+      213: -3178041026777576568
+    second: OrcFemale_116
+  - first:
+      213: -944614973027637639
+    second: OrcFemale_117
+  - first:
+      213: 3384853091775582002
+    second: OrcFemale_118
+  - first:
+      213: 523802251117140254
+    second: OrcFemale_119
+  - first:
+      213: 899670381671501415
+    second: OrcFemale_120
+  - first:
+      213: 4216113224549523876
+    second: OrcFemale_121
+  - first:
+      213: 4655364562198689931
+    second: OrcFemale_122
+  - first:
+      213: -6913145773192823540
+    second: OrcFemale_123
+  - first:
+      213: 704732448918762164
+    second: OrcFemale_124
+  - first:
+      213: 3782831037786199224
+    second: OrcFemale_125
+  - first:
+      213: 3700261853517102994
+    second: OrcFemale_126
+  - first:
+      213: -6604983416917560428
+    second: OrcFemale_127
+  - first:
+      213: 7098254058504105688
+    second: OrcFemale_128
+  - first:
+      213: 4492925725155406934
+    second: OrcFemale_129
+  - first:
+      213: -2906391054897387638
+    second: OrcFemale_130
+  - first:
+      213: 585866291405291070
+    second: OrcFemale_131
+  - first:
+      213: 1772152124691003
+    second: OrcFemale_132
+  - first:
+      213: -2156153205751872448
+    second: OrcFemale_133
+  - first:
+      213: -2491596928019922343
+    second: OrcFemale_134
+  - first:
+      213: -5291663013573279396
+    second: OrcFemale_135
+  - first:
+      213: -6123485626179256798
+    second: OrcFemale_136
+  - first:
+      213: -3972452576527588252
+    second: OrcFemale_137
+  - first:
+      213: 779744174596539416
+    second: OrcFemale_138
+  - first:
+      213: -6984577049232539722
+    second: OrcFemale_139
+  - first:
+      213: -7852442002024018729
+    second: OrcFemale_140
+  - first:
+      213: -5255695963776777180
+    second: OrcFemale_141
+  - first:
+      213: -6469257570159062699
+    second: OrcFemale_142
+  - first:
+      213: -4713804873138535775
+    second: OrcFemale_143
+  - first:
+      213: 1998238962694879865
+    second: OrcFemale_144
+  - first:
+      213: -7078958807204092232
+    second: OrcFemale_145
+  - first:
+      213: -597773444507727507
+    second: OrcFemale_146
+  - first:
+      213: -6997115279514032835
+    second: OrcFemale_147
+  - first:
+      213: -3762879867439204565
+    second: OrcFemale_148
+  - first:
+      213: -5869606377906917698
+    second: OrcFemale_149
+  - first:
+      213: 8774564639780403857
+    second: OrcFemale_150
+  - first:
+      213: -162342211203553145
+    second: OrcFemale_151
+  - first:
+      213: 162932635093286009
+    second: OrcFemale_152
+  - first:
+      213: 1779044552826311400
+    second: OrcFemale_153
+  - first:
+      213: 6223598976181749864
+    second: OrcFemale_154
+  - first:
+      213: 1365003905105787683
+    second: OrcFemale_155
+  - first:
+      213: 3966632939134695496
+    second: OrcFemale_156
+  - first:
+      213: -2701395894925509112
+    second: OrcFemale_157
+  - first:
+      213: -5365581834653254046
+    second: OrcFemale_158
+  - first:
+      213: 8628722909019499371
+    second: OrcFemale_159
+  - first:
+      213: -936935862802955680
+    second: OrcFemale_160
+  - first:
+      213: 6228110076347259400
+    second: OrcFemale_161
+  - first:
+      213: 6403754356933800811
+    second: OrcFemale_162
+  - first:
+      213: -7188660271032522367
+    second: OrcFemale_163
+  - first:
+      213: -6412685185263425628
+    second: OrcFemale_164
+  - first:
+      213: -8741747865748815083
+    second: OrcFemale_165
+  - first:
+      213: -5854222343611220290
+    second: OrcFemale_166
+  - first:
+      213: 6391039809507859907
+    second: OrcFemale_167
+  - first:
+      213: 853140249518257276
+    second: OrcFemale_168
+  - first:
+      213: 2779383974133807882
+    second: OrcFemale_169
+  - first:
+      213: 7790330586682207497
+    second: OrcFemale_170
+  - first:
+      213: -2289613429962064679
+    second: OrcFemale_171
+  - first:
+      213: -4604671761597446192
+    second: OrcFemale_172
+  - first:
+      213: -1719237773949850516
+    second: OrcFemale_173
+  - first:
+      213: 433601108163799372
+    second: OrcFemale_174
+  - first:
+      213: -4949518982964397962
+    second: OrcFemale_175
+  - first:
+      213: 7474033172546225259
+    second: OrcFemale_176
+  - first:
+      213: -6102011990021723523
+    second: OrcFemale_177
+  - first:
+      213: 6588377543167488879
+    second: OrcFemale_178
+  - first:
+      213: 4960129905705495102
+    second: OrcFemale_179
+  - first:
+      213: -780407263887174321
+    second: OrcFemale_180
+  - first:
+      213: -4097715451853795814
+    second: OrcFemale_181
+  - first:
+      213: 5660477965307322444
+    second: OrcFemale_182
+  - first:
+      213: -3994035533342464103
+    second: OrcFemale_183
+  - first:
+      213: -512737190135638581
+    second: OrcFemale_184
+  - first:
+      213: 5331139156206223435
+    second: OrcFemale_185
+  - first:
+      213: -2919707137652039873
+    second: OrcFemale_186
+  - first:
+      213: 8946059298926174981
+    second: OrcFemale_187
+  - first:
+      213: 4388837561816440535
+    second: OrcFemale_188
+  - first:
+      213: 8524353991781947717
+    second: OrcFemale_189
+  - first:
+      213: -926827155160670366
+    second: OrcFemale_190
+  - first:
+      213: -8899424335842119223
+    second: OrcFemale_191
+  - first:
+      213: -3338801192819073645
+    second: OrcFemale_192
+  - first:
+      213: -7776753315779813200
+    second: OrcFemale_193
+  - first:
+      213: -7213786791957181915
+    second: OrcFemale_194
+  - first:
+      213: 4081555964332820268
+    second: OrcFemale_195
+  - first:
+      213: 8493160574228009952
+    second: OrcFemale_196
+  - first:
+      213: 5332570630088700885
+    second: OrcFemale_197
+  - first:
+      213: -8817320042521247086
+    second: OrcFemale_198
+  - first:
+      213: -2326971926788835722
+    second: OrcFemale_199
+  - first:
+      213: -2860147414556992214
+    second: OrcFemale_200
+  - first:
+      213: -7983066121557276109
+    second: OrcFemale_201
+  - first:
+      213: -1851240413609935987
+    second: OrcFemale_202
+  - first:
+      213: 5143688172076144019
+    second: OrcFemale_203
+  - first:
+      213: -2969586443470262961
+    second: OrcFemale_204
+  - first:
+      213: 8093386806922412683
+    second: OrcFemale_205
+  - first:
+      213: 2697233805968068868
+    second: OrcFemale_206
+  - first:
+      213: -7893131030584918087
+    second: OrcFemale_207
+  - first:
+      213: -1015590072879282936
+    second: OrcFemale_208
+  - first:
+      213: 6256461074533888474
+    second: OrcFemale_209
+  - first:
+      213: -3944601273896160926
+    second: OrcFemale_210
+  - first:
+      213: 7931811407894039292
+    second: OrcFemale_211
+  - first:
+      213: -8415888484109195481
+    second: OrcFemale_212
+  - first:
+      213: -3291881796705172154
+    second: OrcFemale_213
+  - first:
+      213: 4618816339426896002
+    second: OrcFemale_214
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OrcFemale_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1793
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a816e4aee575830800000000000000
+      internalID: 4059817949528164994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1793
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809450274801528d0800000000000000
+      internalID: -2871871026344146680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1793
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa377f57b873de60800000000000000
+      internalID: 7985859293234019064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1793
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbeee330b5595720800000000000000
+      internalID: 2835391655680338886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1793
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a460a666a24d130800000000000000
+      internalID: 3590541422274955794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1793
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543f1045719123040800000000000000
+      internalID: 4625787355247276869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1793
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955b1f704a5210230800000000000000
+      internalID: 3603202563311252825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1805
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d889aa119561af60800000000000000
+      internalID: 8043822083352398041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1729
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b7c9e14c1632b10800000000000000
+      internalID: 1955514158163983156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1729
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c3751633fe42930800000000000000
+      internalID: 4117678963278953494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1729
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fea78a564ac8c20800000000000000
+      internalID: 3210121390933602164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1729
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bc767f34104aa60800000000000000
+      internalID: 7684268255626120063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1729
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2a48a233115d080800000000000000
+      internalID: -9163398955361066304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1729
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c6e24b92d9a5d20800000000000000
+      internalID: 3268097282052877407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1729
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e9e6f47d26e51a0800000000000000
+      internalID: -6818904108902212013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1665
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ab10912fe866820800000000000000
+      internalID: 2911171379594377853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1665
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5b074b508d34530800000000000000
+      internalID: 3838148826463516076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1665
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeaa0166adfb5dd0800000000000000
+      internalID: -2496122677412319505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1665
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40516d97b4242310800000000000000
+      internalID: 1379267756920229965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1665
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3165d09c5759d790800000000000000
+      internalID: -7504871248957710022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_20
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1665
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55cce5f1acb893c0800000000000000
+      internalID: -4352521636051892901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1665
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f2eb68979e978e0800000000000000
+      internalID: -1695067076567355541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1601
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76876027469d79fd0800000000000000
+      internalID: -2335158856335329177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1601
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13026417d629bb1c0800000000000000
+      internalID: -4486831604995055567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1601
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c462057316136a40800000000000000
+      internalID: 5360152254324303041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1601
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b80ae9ce28778d0800000000000000
+      internalID: -2848664286503335072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1601
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356165c0fbc636850800000000000000
+      internalID: 6369053865833535059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1601
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714cdc68b2c78fc50800000000000000
+      internalID: 6699240972100682775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1601
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d5b7098ef6099a0800000000000000
+      internalID: -6228355240006296181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1536
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b17916dcd7462ce0800000000000000
+      internalID: -1430376817833184841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1536
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5a31de6ff9f2100800000000000000
+      internalID: 85462800831587822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1535
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029b26dd4475966f0800000000000000
+      internalID: -690925114541033184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1535
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d76e2ca5b49d8f0800000000000000
+      internalID: -515297829168186063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1535
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcfcd06ad50ec530800000000000000
+      internalID: 3877042764698680509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1535
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060a224db3cecf720800000000000000
+      internalID: 2881437603316539488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1535
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6de915b1dd34aad0800000000000000
+      internalID: -2691958706364879509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1535
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a139d402820d8750800000000000000
+      internalID: 6308701410466279847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_37
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1473
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839a56442321e0a10800000000000000
+      internalID: 1877458101765253432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_38
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1473
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b967ed7f154741a0800000000000000
+      internalID: -6825410708698076746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1473
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40824a36ffdc1380800000000000000
+      internalID: -8999071706760708020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1473
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c912b21ac74b160800000000000000
+      internalID: 7040389149142129682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_41
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1473
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a38950686761250800000000000000
+      internalID: 5915045478589282857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1473
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1c364c4999e1840800000000000000
+      internalID: 5196759884261212601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_43
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1473
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0057b8518179a3670800000000000000
+      internalID: 8519287774821184768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_44
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1473
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc7c80f143be3480800000000000000
+      internalID: -8917493116357018378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1409
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331ce3c5cac80ad70800000000000000
+      internalID: 9052389922924577075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1409
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b3e593bcc395940800000000000000
+      internalID: 5285322481234492257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1410
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ddb07337c6df800800000000000000
+      internalID: 647793163511782715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1410
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b8f0b3825269000800000000000000
+      internalID: 42262101226392375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1410
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60fb0e3c8633f670800000000000000
+      internalID: 8571254491780477039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1410
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833673209d5bd4050800000000000000
+      internalID: 5786481039890670392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1410
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efecdc9d0c7536f90800000000000000
+      internalID: -6961624113185173762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_52
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1410
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecd287588fe6cfe0800000000000000
+      internalID: -1168983684393280276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_53
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1345
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2927ce76145cbeed0800000000000000
+      internalID: -2383594693055450478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1345
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc84f5298a45bae0800000000000000
+      internalID: -1534238145142027088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_55
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1345
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a4e6d6515b25d60800000000000000
+      internalID: 7877557801859303948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1345
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac856bddf38ca3f0800000000000000
+      internalID: -888189900168000340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_57
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1345
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd3b423ab4735470800000000000000
+      internalID: 8382171674523155907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_58
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1345
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2edd263b44fc18d0800000000000000
+      internalID: -2874153858300518867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1345
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a2f7ea828babbf0800000000000000
+      internalID: -307731139655685513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1345
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01114275b66334e0800000000000000
+      internalID: -2003144479757758197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_61
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1282
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60af924e5d3f1040800000000000000
+      internalID: 4620479217759395949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_62
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1281
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2865a93c3c490a820800000000000000
+      internalID: 2927503326312027778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_63
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1280
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1d4429365545eb0800000000000000
+      internalID: -4732063422315441677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_64
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1279
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39e65467cddd5390800000000000000
+      internalID: -7827856728848406210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_65
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1280
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6066abc097d224f10800000000000000
+      internalID: 2252412761566504454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_66
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1281
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e6060afb77c91f0800000000000000
+      internalID: -1036822149288923495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_67
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1280
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcd32ec03e7fd150800000000000000
+      internalID: 5899572784960625879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_68
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1279
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf0547f8936bcec0800000000000000
+      internalID: -3545630772989456469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_69
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1280
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6068bc72097ae40800000000000000
+      internalID: 5667657156661741221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_70
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1217
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47a8a1bb6ab1f840800000000000000
+      internalID: 5256187211822966603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_71
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1217
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc74295ceebc7c20800000000000000
+      internalID: 3205646957098073298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_72
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1218
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745aa2d0994926830800000000000000
+      internalID: 4062973198913414471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_73
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1218
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276a58fe793e36bf0800000000000000
+      internalID: -332171705797204366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_74
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1217
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90f20f780b3e07f0800000000000000
+      internalID: -644512788990725986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_75
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1217
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53aefa614e1c2fc50800000000000000
+      internalID: 6697628781230680629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_76
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1217
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fa5b7594e361050800000000000000
+      internalID: 5770868457246928661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_77
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1217
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe92a6548d01b030800000000000000
+      internalID: 3508600446738669246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_78
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1217
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a933d16c4dfe87020800000000000000
+      internalID: 2339883703554880410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_79
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1153
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da25a38e047b435c0800000000000000
+      internalID: -4236559860046867795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_80
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1153
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ef944a16c6a0a30800000000000000
+      internalID: 4182274370590867057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_81
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1152
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6815725221071b0800000000000000
+      internalID: -5661004780821969200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1152
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e364363130c953440800000000000000
+      internalID: 4915006105368872510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_83
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1152
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6dcaa7c9bcca9b0800000000000000
+      internalID: -5067451607765166369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_84
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1153
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5085706a45e597900800000000000000
+      internalID: 682680536179103749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_85
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1152
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4f73321bd38d1a0800000000000000
+      internalID: -6784605007624276807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_86
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1152
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48567be0708aab70800000000000000
+      internalID: 8911076035181041739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_87
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1152
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74eb28b4bf6689e0800000000000000
+      internalID: -1619484194018433925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_88
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1089
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de44ee0640d872b0800000000000000
+      internalID: -5586486338436968745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_89
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1089
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fab9fb001e7b390800000000000000
+      internalID: -7802520436065194240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_90
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1090
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57e541ddec5d0a40800000000000000
+      internalID: 5336023309991929690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_91
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1090
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae122badbfb1b7c70800000000000000
+      internalID: 8969793851358323178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1089
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d67d4f6122936520800000000000000
+      internalID: 2694157674396612306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_93
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1089
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd56d7cf9c9344350800000000000000
+      internalID: 5999984143251629533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_94
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1089
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f393ecca5c83e050800000000000000
+      internalID: 5828656664359965681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_95
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1089
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe94150fada457560800000000000000
+      internalID: 7310831874301053423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_96
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1089
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19868f3ad2cbd5610800000000000000
+      internalID: 1611651145879021713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_97
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1025
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ba588c9d991ea70800000000000000
+      internalID: 8854527503038262023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_98
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1024
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf183359d3bb0890800000000000000
+      internalID: -7490695809215225910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_99
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1024
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2392c430accff2340800000000000000
+      internalID: 4841366069015488818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_100
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1024
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8c53d3add8b2320800000000000000
+      internalID: 2534275183795357911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_101
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1024
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3116c334e4e5e6e0800000000000000
+      internalID: -1808788006547091139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_102
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1024
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd235531f5be69f0800000000000000
+      internalID: -473240863240933898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_103
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 961
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c8e0fdb7e7ffa50800000000000000
+      internalID: 6557098652963081266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_104
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 961
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd8832ad1247c2f0800000000000000
+      internalID: -952720101122470437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_105
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 961
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d023f348fb1c9c40800000000000000
+      internalID: 5520317996355231954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_106
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 961
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bf0c026a28cd470800000000000000
+      internalID: 8420749053301685087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_107
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 961
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf8fb417229b8df0800000000000000
+      internalID: -176887063801524301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_108
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 961
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdc27a052d35b500800000000000000
+      internalID: 411302170272648641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_109
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 897
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6506cdb38158ed70800000000000000
+      internalID: 9072591075604301164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_110
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 897
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac35364dc4e29d90800000000000000
+      internalID: -7092354892857787220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_111
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 897
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78adea5af36032100800000000000000
+      internalID: 81916088655207047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_112
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 897
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be33b17e5ae039120800000000000000
+      internalID: 2419293530537800683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_113
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 897
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab0e33d787827c40800000000000000
+      internalID: 5508614311661931438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_114
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 897
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e83d03bde51c2a0800000000000000
+      internalID: -6718984873550049775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_115
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 833
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2dc58801c935440800000000000000
+      internalID: 4923450412467278522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_116
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 833
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b0e4d268455e3d0800000000000000
+      internalID: -3178041026777576568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_117
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 833
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9762c23dfad04e2f0800000000000000
+      internalID: -944614973027637639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_118
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 833
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f8a2804f969fe20800000000000000
+      internalID: 3384853091775582002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_119
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 833
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1913664f5be44700800000000000000
+      internalID: 523802251117140254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_120
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 833
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e487a02754c7c00800000000000000
+      internalID: 899670381671501415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_121
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 769
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1e91ac3a4a28a30800000000000000
+      internalID: 4216113224549523876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_122
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 768
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b887bc5776d2b9040800000000000000
+      internalID: 4655364562198689931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_123
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 767
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d3954fb829f00a0800000000000000
+      internalID: -6913145773192823540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_124
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 767
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b27e7fad66b7c900800000000000000
+      internalID: 704732448918762164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_125
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 767
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4919c59c05f7430800000000000000
+      internalID: 3782831037786199224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_126
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 767
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fb0da0d88f95330800000000000000
+      internalID: 3700261853517102994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_127
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 767
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4937847b3926654a0800000000000000
+      internalID: -6604983416917560428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_128
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 767
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deac924570128260800000000000000
+      internalID: 7098254058504105688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_129
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 767
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6543a1a74241a5e30800000000000000
+      internalID: 4492925725155406934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_130
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 767
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87e77afbbc6aa7d0800000000000000
+      internalID: -2906391054897387638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_131
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 767
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e7619b94a612800800000000000000
+      internalID: 585866291405291070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_132
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 767
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3251e153cb460000800000000000000
+      internalID: 1772152124691003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_133
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 767
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04407d9451ec312e0800000000000000
+      internalID: -2156153205751872448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_134
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 705
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9520be58bc11c6dd0800000000000000
+      internalID: -2491596928019922343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_135
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 705
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5144ec868c3096b0800000000000000
+      internalID: -5291663013573279396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_136
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 705
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eff504442050ba0800000000000000
+      internalID: -6123485626179256798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_137
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 703
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464ecf8bd630fd8c0800000000000000
+      internalID: -3972452576527588252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_138
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 705
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814c18e023532da00800000000000000
+      internalID: 779744174596539416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_139
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 705
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bff52afd2cc11f90800000000000000
+      internalID: -6984577049232539722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 705
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc400a6a95860390800000000000000
+      internalID: -7852442002024018729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_141
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 705
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42481a7ed540017b0800000000000000
+      internalID: -5255695963776777180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_142
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 705
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551992af3849836a0800000000000000
+      internalID: -6469257570159062699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_143
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 705
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a282145173359eb0800000000000000
+      internalID: -4713804873138535775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_144
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 705
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97af5cbdfbb2bbb10800000000000000
+      internalID: 1998238962694879865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_145
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 705
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b62af4887c72cd90800000000000000
+      internalID: -7078958807204092232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_146
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 705
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6984f7283844b7f0800000000000000
+      internalID: -597773444507727507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_147
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 641
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35ab10c9b045ee90800000000000000
+      internalID: -6997115279514032835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_148
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 640
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2731d872b097cbc0800000000000000
+      internalID: -3762879867439204565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_149
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 642
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebead790918fa8ea0800000000000000
+      internalID: -5869606377906917698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_150
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 639
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a70dcdc0485c970800000000000000
+      internalID: 8774564639780403857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_151
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78829297e9e3fbdf0800000000000000
+      internalID: -162342211203553145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_152
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 641
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cbd0d4e5ad24200800000000000000
+      internalID: 162932635093286009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_153
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e25ec2589f60b810800000000000000
+      internalID: 1779044552826311400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_154
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8684cc77b4aae5650800000000000000
+      internalID: 6223598976181749864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_155
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bf9d0d1d771f210800000000000000
+      internalID: 1365003905105787683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_156
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 640
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848bc7b54af4c0730800000000000000
+      internalID: 3966632939134695496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_157
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 640
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e34450fb6b28ad0800000000000000
+      internalID: -2701395894925509112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_158
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 640
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e343cdfbf9985b0800000000000000
+      internalID: -5365581834653254046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_159
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 640
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6be161d4c16fb770800000000000000
+      internalID: 8628722909019499371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_160
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 577
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0624e400cc55ff2f0800000000000000
+      internalID: -936935862802955680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_161
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 577
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a95b2dd11be6650800000000000000
+      internalID: 6228110076347259400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_162
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 577
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6336e9b8a4bed850800000000000000
+      internalID: 6403754356933800811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_163
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 575
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189a426129fbc3c90800000000000000
+      internalID: -7188660271032522367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_164
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 577
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7a6f3ccc09107a0800000000000000
+      internalID: -6412685185263425628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_165
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 577
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5134302c1a21fa680800000000000000
+      internalID: -8741747865748815083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_166
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebef5e4abcf91cea0800000000000000
+      internalID: -5854222343611220290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_167
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 577
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd981778d881b850800000000000000
+      internalID: 6391039809507859907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_168
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 577
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74bf1c6986f6db00800000000000000
+      internalID: 853140249518257276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_169
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 577
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bb8a8affa529620800000000000000
+      internalID: 2779383974133807882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_170
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 577
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dad06c460dc1c60800000000000000
+      internalID: 7790330586682207497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_171
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 577
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcb52267b8a930e0800000000000000
+      internalID: -2289613429962064679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_172
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 577
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d746beed6be810c0800000000000000
+      internalID: -4604671761597446192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_173
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 513
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c294f7a5a0428e0800000000000000
+      internalID: -1719237773949850516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_174
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 513
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49a15a19e5740600800000000000000
+      internalID: 433601108163799372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_175
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 513
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678ba5b65b6cf4bb0800000000000000
+      internalID: -4949518982964397962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_176
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 513
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b648a11429919b760800000000000000
+      internalID: 7474033172546225259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_177
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 514
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aa497cc6c415ba0800000000000000
+      internalID: -6102011990021723523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_178
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 512
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63b8a2087e9e6b50800000000000000
+      internalID: 6588377543167488879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_179
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 418
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a2e5d8edbe5d440800000000000000
+      internalID: 4960129905705495102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_180
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 417
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45dedf6abf6b25f0800000000000000
+      internalID: -780407263887174321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_181
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 416
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e00a5d18df127c0800000000000000
+      internalID: -4097715451853795814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_182
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 415
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40a11d08be0e8e40800000000000000
+      internalID: 5660477965307322444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_183
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 416
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997a5def7d55298c0800000000000000
+      internalID: -3994035533342464103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_184
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 417
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc555defd3462e8f0800000000000000
+      internalID: -512737190135638581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_185
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 416
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4009d521d20cf940800000000000000
+      internalID: 5331139156206223435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_186
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 415
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fd31cd3dd1b77d0800000000000000
+      internalID: -2919707137652039873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_187
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 416
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503231cb889c62c70800000000000000
+      internalID: 8946059298926174981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_188
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 289
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ded5f8628848ec30800000000000000
+      internalID: 4388837561816440535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_189
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 289
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54998d3aac69c4670800000000000000
+      internalID: 8524353991781947717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_190
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 290
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f5678ec9f3323f0800000000000000
+      internalID: -926827155160670366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_191
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 290
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1f9acb7b4ee7480800000000000000
+      internalID: -8899424335842119223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_192
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 289
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d5e5e31023aa1d0800000000000000
+      internalID: -3338801192819073645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_193
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 289
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b06a13ff0c631490800000000000000
+      internalID: -7776753315779813200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_194
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 289
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52accfb022b73eb90800000000000000
+      internalID: -7213786791957181915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_195
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 289
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c274fe8468994a830800000000000000
+      internalID: 4081555964332820268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_196
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 289
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e396372b84cdd570800000000000000
+      internalID: 8493160574228009952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_197
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 161
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d33e122cb8110a40800000000000000
+      internalID: 5332570630088700885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_198
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 161
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292c692332692a580800000000000000
+      internalID: -8817320042521247086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_199
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676f1758c5fe4bfd0800000000000000
+      internalID: -2326971926788835722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_200
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d14168417be48d0800000000000000
+      internalID: -2860147414556992214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_201
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 160
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a8f1698a3763190800000000000000
+      internalID: -7983066121557276109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_202
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 161
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bbee0f6a21f46e0800000000000000
+      internalID: -1851240413609935987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_203
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 160
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3951afbd32d026740800000000000000
+      internalID: 5143688172076144019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_204
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 160
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4da32bfcd8e9c6d0800000000000000
+      internalID: -2969586443470262961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_205
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 160
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8281789b6c715070800000000000000
+      internalID: 8093386806922412683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_206
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 33
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401d6e02bdf7e6520800000000000000
+      internalID: 2697233805968068868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_207
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 33
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf7f54b527f57290800000000000000
+      internalID: -7893131030584918087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_208
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 34
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8050e94a536e7e1f0800000000000000
+      internalID: -1015590072879282936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_209
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 34
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1b6aaf23a63d650800000000000000
+      internalID: 6256461074533888474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_210
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 33
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261bdd07a06f149c0800000000000000
+      internalID: -3944601273896160926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_211
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 33
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa4ae07374731e60800000000000000
+      internalID: 7931811407894039292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_212
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 33
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727ee535302c43b80800000000000000
+      internalID: -8415888484109195481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_213
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 33
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64540d072f2e052d0800000000000000
+      internalID: -3291881796705172154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcFemale_214
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 33
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2886f4a3df4591040800000000000000
+      internalID: 4618816339426896002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
