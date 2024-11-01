@@ -109,7 +109,15 @@ public class PlayerBehaviour : MonoBehaviour
         if (context.performed)
         {
             knightAnimator.SetTrigger("lightAttack");
+            StartCoroutine(LightAttackPerformed(0.35f));
         }
+    }
+
+    private IEnumerator LightAttackPerformed(float attackDuration)
+    {
+        canMove = false;
+        yield return new WaitForSeconds(attackDuration);
+        canMove = true;
     }
 
     public void OnHeavyAttack(InputAction.CallbackContext context)
@@ -117,11 +125,11 @@ public class PlayerBehaviour : MonoBehaviour
         if (context.performed)
         {
             knightAnimator.SetTrigger("heavyAttack");
-            StartCoroutine(PerformAttack(heavyAttackForce, 0.2f));
+            StartCoroutine(HeavyAttackPerformed(heavyAttackForce, 0.25f));
         }
     }
 
-    private IEnumerator PerformAttack(float attackForce, float attackDuration)
+    private IEnumerator HeavyAttackPerformed(float attackForce, float attackDuration)
     {
         canMove = false;
         knightRb.AddForce((knightFacingRight ? Vector2.right : Vector2.left) * attackForce);

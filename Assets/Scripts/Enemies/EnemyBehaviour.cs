@@ -5,82 +5,120 @@ public class EnemyBehaviour : MonoBehaviour
 {
     [Header("Current States")]
     [SerializeField] private bool isAlive;
+    [SerializeField] private bool canChase;
     [SerializeField] private float currentHealth;
     private float maxHealth;
 
     [Header("References")]
-    [SerializeField] private Vector3 distanceFromQueen;
     [SerializeField] private Transform queen;
     private Collider2D enemyCollider;
     private Animator animator;
-    private Vector3 targetPos;
 
     [Header("Movement Attribute")]
     [SerializeField] private bool canMove;
-    [SerializeField] private float speed;
+    [SerializeField] private float movementSpeed;
+    private float usualSpeed;
+    public bool isAttacking;  // Controlled by PlayerDetector
 
+    [Header("Attack Range")]
+    [SerializeField] private Vector2 stoppingDistance = new Vector2(1, 1);
 
     private void Start()
     {
         maxHealth = 100;
         currentHealth = maxHealth;
+        usualSpeed = 2;
         isAlive = true;
         canMove = true;
+        canChase = true;
         enemyCollider = GetComponent<Collider2D>();
         animator = GetComponent<Animator>();
     }
 
     private void Update()
     {
-        if(currentHealth <= 0)
+        if (currentHealth <= 0)
         {
-            enemyCollider.enabled = false;
-            isAlive = false;
-            Destroy(this.gameObject, 3f);
-        }
-
-        else
-        {
-            isAlive = true;
+            HandleDeath();
+            return;
         }
 
         if (isAlive)
         {
-            if (canMove)
+            Attack();
+
+            if(canMove)
             {
                 Chase();
                 PlayerDirection();
             }
         }
+    }
 
-        else
-        {
-            canMove = false;
-            animator.SetBool("isAlive", false);
-        } 
+    private void HandleDeath()
+    {
+        animator.SetBool("isAlive", false);
+        canChase = false;
+        enemyCollider.enabled = false;
+        isAlive = false;
+        Destroy(this.gameObject, 3f);
     }
 
     private void Chase()
     {
-        targetPos = queen.position - distanceFromQueen;
-
-        float currentDistance = Vector3.Distance(transform.position, targetPos);
-
-        if (currentDistance <= 0.1f)
+        if (canChase && !isAttacking)
         {
-            animator.SetBool("isChasing", false);
-            Attack();
+            movementSpeed = usualSpeed;
+            Vector3 directionToPlayer = queen.position - transform.position;
+
+            if (Mathf.Abs(directionToPlayer.x) > stoppingDistance.x || Mathf.Abs(directionToPlayer.y) > stoppingDistance.y)
+            {
+                MoveTowardsPlayer();
+            }
+            else
+            {
+                canMove = false;
+            }
         }
-        else
-        {
-            transform.position = Vector3.MoveTowards(transform.position, targetPos, speed * Time.deltaTime);
-            animator.SetBool("isChasing", true);
-        }
+    }
+
+    private void MoveTowardsPlayer()
+    {
+        transform.position = Vector3.MoveTowards(transform.position, queen.position, movementSpeed * Time.deltaTime);
+        animator.SetBool("isChasing", true);
     }
 
     private void Attack()
     {
-        animator.SetTrigger("attack");
+        if (isAttacking)
+        {
+            StartAttack();
+        }
+        else
+        {
+            StopAttack();
+        }
+    }
+
+    private void StartAttack()
+    {
+        canChase = false;
+        animator.SetBool("isChasing", false);
+        animator.SetBool("isAttacking", true);
+    }
+
+    private void StopAttack()
+    {
+        animator.SetBool("isAttacking", false);
+        StartCoroutine(WaitToChaseAgain(2f));
+    }
+
+    private IEnumerator WaitToChaseAgain(float timer)
+    {
+        yield return new WaitForSeconds(timer);
+        canMove = true;
+        canChase = true;
+        animator.SetBool("isChasing", true);
     }
 
     private void PlayerDirection()
@@ -100,17 +138,16 @@ public class EnemyBehaviour : MonoBehaviour
         if (collision.gameObject.CompareTag("PlayerLightAttack"))
         {
             currentHealth -= 20;
-            StartCoroutine(gotHit());
+            StartCoroutine(GotHit());
         }
-
-        else if(collision.gameObject.CompareTag("PlayerHeavyAttack"))
+        else if (collision.gameObject.CompareTag("PlayerHeavyAttack"))
         {
-             currentHealth -= 40;
-            StartCoroutine(gotHit());
+            currentHealth -= 40;
+            StartCoroutine(GotHit());
         }
     }
 
-    private IEnumerator gotHit()
+    private IEnumerator GotHit()
     {
         canMove = false;
         animator.SetTrigger("getHit");
