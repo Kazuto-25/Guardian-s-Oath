@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4131052022699975040}
   - component: {fileID: 1466668240883529441}
   - component: {fileID: 1726116378704226860}
+  - component: {fileID: 8887422963503501960}
   m_Layer: 6
   m_Name: Skeleton_Warrior
   m_TagString: Enemy
@@ -80,7 +81,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 0
   m_Sprite: {fileID: 4723107735738678597, guid: a606a8e1aa594e1418959a85da6fa64f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -152,7 +153,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 4.923077, y: 4.923077}
+    oldSize: {x: 4.266667, y: 4.266667}
     newSize: {x: 1.28, y: 1.28}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -160,6 +161,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 4.923077, y: 4.923077}
   m_EdgeRadius: 0
+--- !u!114 &8887422963503501960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2729684875495543796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2942ffc6900930343a6d7cf2f22d806e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  queen: {fileID: 0}
+  speed: 1.2
+  distanceFromQueen: {x: 1.18, y: -1.14, z: 0}
 --- !u!1 &4074102554578396670
 GameObject:
   m_ObjectHideFlags: 0
@@ -397,7 +413,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
   m_Color: {r: 1, g: 0, b: 0, a: 1}
   m_FlipX: 0

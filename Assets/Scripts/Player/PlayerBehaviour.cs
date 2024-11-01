@@ -1,5 +1,4 @@
 using System.Collections;
-using UnityEditor;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -15,17 +14,19 @@ public class PlayerBehaviour : MonoBehaviour
 
     [Header("Knight Attributes")]
     [SerializeField] private GameObject knight;
-    [SerializeField] private Animator knight_Animator;
-    [SerializeField] private Rigidbody2D knight_rb;
+    [SerializeField] private Animator knightAnimator;
+    [SerializeField] private Rigidbody2D knightRb;
     [SerializeField] private float heavyAttackForce;
     [SerializeField] private bool canMove;
-    [SerializeField] private int knight_Health;
+    [SerializeField] private int knightHealth;
     private bool knightFacingRight;
+    private Transform knightTransform;
 
     [Header("Princess Attributes")]
     [SerializeField] private GameObject princess;
-    [SerializeField] private Animator princess_Animator;
-    [SerializeField] private int princess_Health;
+    [SerializeField] private Animator princessAnimator;
+    [SerializeField] private int princessHealth;
+    private Transform princessTransform;
 
     private Vector2 knightMovementInput;
     private Vector2 princessMovementInput;
@@ -36,36 +37,25 @@ public class PlayerBehaviour : MonoBehaviour
         maxHealth = 100;
         knightFacingRight = true;
         canMove = true;
-
-        knight_Health = maxHealth;
-        princess_Health = maxHealth;
+        knightHealth = maxHealth;
+        princessHealth = maxHealth;
+        knightTransform = knight.transform;
+        princessTransform = princess.transform;
     }
 
     private void Update()
     {
-        if(knight_Health <= 0 || princess_Health <= 0)
+        if (knightHealth <= 0 || princessHealth <= 0)
         {
             isAlive = false;
+            knightAnimator.SetBool("isAlive", false);
+            princessAnimator.SetBool("isAlive", false);
         }
-
-        if(isAlive)
+        else if (isAlive && canMove)
         {
-            knight_Animator.SetBool("isAlive", true);
-            princess_Animator.SetBool("isAlive", true);
-
-            if (canMove)
-            {
-                KnightMovement();
-                PrincessMovement();
-            }
+            KnightMovement();
+            PrincessMovement();
         }
-
-        else
-        {
-            knight_Animator.SetBool("isAlive", false);
-            princess_Animator.SetBool("isAlive", false);
-        }
-        
     }
 
     public void OnKnightMove(InputAction.CallbackContext context)
@@ -82,25 +72,14 @@ public class PlayerBehaviour : MonoBehaviour
     {
         if (knightMovementInput != Vector2.zero)
         {
-            knight_Animator.SetBool("isMoving", true);
-            knight.transform.position = ClampPositionWithinLimits(knight.transform.position + (Vector3)(knightMovementInput * moveSpeed * Time.deltaTime));
-
-            if (knightMovementInput.x < 0)
-            {
-                knight.transform.localScale = new Vector3(-1, 1, 1);
-                knightFacingRight = false;
-            }
-
-            else if (knightMovementInput.x > 0)
-            {
-                knight.transform.localScale = new Vector3(1, 1, 1);
-                knightFacingRight = true;
-            }
+            knightAnimator.SetBool("isMoving", true);
+            knightTransform.position = ClampPosition(knightTransform.position + (Vector3)(knightMovementInput * moveSpeed * Time.deltaTime));
+            knightFacingRight = knightMovementInput.x > 0;
+            knightTransform.localScale = new Vector3(knightFacingRight ? 1 : -1, 1, 1);
         }
-
         else
         {
-            knight_Animator.SetBool("isMoving", false);
+            knightAnimator.SetBool("isMoving", false);
         }
     }
 
@@ -108,78 +87,47 @@ public class PlayerBehaviour : MonoBehaviour
     {
         if (princessMovementInput != Vector2.zero)
         {
-            princess_Animator.SetBool("isWalking", true);
-            princess.transform.position = ClampPositionWithinLimits(princess.transform.position + (Vector3)(princessMovementInput * moveSpeed * Time.deltaTime));
-
-            if (princessMovementInput.x < 0)
-            {
-                princess_Animator.SetBool("isFacingRight", false);
-            }
-
-            else if (princessMovementInput.x > 0)
-            {
-                princess_Animator.SetBool("isFacingRight", true);
-            }
+            princessAnimator.SetBool("isWalking", true);
+            princessTransform.position = ClampPosition(princessTransform.position + (Vector3)(princessMovementInput * moveSpeed * Time.deltaTime));
+            princessAnimator.SetBool("isFacingRight", princessMovementInput.x > 0);
         }
-
         else
         {
-            princess_Animator.SetBool("isWalking", false);
+            princessAnimator.SetBool("isWalking", false);
         }
     }
 
-    private Vector3 ClampPositionWithinLimits(Vector3 position)
+    private Vector3 ClampPosition(Vector3 position)
     {
         position.x = Mathf.Clamp(position.x, -x_Limit, x_Limit);
         position.y = Mathf.Clamp(position.y, -y_Limit, y_Limit);
         return position;
     }
 
-    public void OnLightAttack(InputAction.CallbackContext Lightattack)
+    public void OnLightAttack(InputAction.CallbackContext context)
     {
-        if (Lightattack.performed)
+        if (context.performed)
         {
-            knight_Animator.SetTrigger("lightAttack");
+            knightAnimator.SetTrigger("lightAttack");
         }
     }
 
-    public void OnHeavyAttack(InputAction.CallbackContext HeavyAttack)
+    public void OnHeavyAttack(InputAction.CallbackContext context)
     {
-        if (HeavyAttack.performed)
+        if (context.performed)
         {
-            knight_Animator.SetTrigger("heavyAttack");
-            StartCoroutine(waitforNextHeavyAttack());
+            knightAnimator.SetTrigger("heavyAttack");
+            StartCoroutine(PerformAttack(heavyAttackForce, 0.2f));
         }
     }
 
-    private IEnumerator waitforNextLightAttack()
+    private IEnumerator PerformAttack(float attackForce, float attackDuration)
     {
         canMove = false;
-
+        knightRb.AddForce((knightFacingRight ? Vector2.right : Vector2.left) * attackForce);
+        yield return new WaitForSeconds(attackDuration);
+        knightRb.linearVelocity = Vector2.zero;
         yield return new WaitForSeconds(1f);
-
-        canMove = true;
-    }
-
-    private IEnumerator waitforNextHeavyAttack()
-    {
-        canMove = false;
-
-        if (knightFacingRight)
-        {
-            knight_rb.AddForce(Vector2.right * heavyAttackForce);
-        }
-        else
-        {
-            knight_rb.AddForce(Vector2.left * heavyAttackForce);
-        }
-
-        yield return new WaitForSeconds(.2f);
-
-        knight_rb.linearVelocity = Vector2.zero;
-
-        yield return new WaitForSeconds(1f);
-
         canMove = true;
     }
 }
